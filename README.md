@@ -10,7 +10,8 @@ bash <(curl -Ss https://raw.githubusercontent.com/ForestRacks/PteroInstaller/Pro
 ```
 ## 安装后:
 * 请注意 "example.com" 指您在安装过程中设置的面板 URL.
-1) 安装完成后，进入http://example.com/admin/nodes/view/1/alloca为您的游戏添加必要的端口
+1) 安装完成后，进入http://example.com/admin/nodes/view/1/alloca
+2) 为您的游戏添加必要的端口
 
 ## 故障排除:
 1) 如果您收到 mysql 连接错误，您可能已多次运行安装程序 - 在这种情况下，最好的解决方案是重新安装操作系统并再次运行安装脚本.
